@@ -12,6 +12,6 @@ I calculate business, marketing and product metrics such as DAU, MAU, ARPU, LTV,
 
 For modeling, I train classification and regression models (Linear Regression, Logistic Regression, Decision Tree Classifier, Random Forest Classifier, MLP Classifier) and assess model quality using metrics like MAE, MSE, accuracy, precision, recall and F1-score, along with cross-validation.
 
-This portfolio showcases my skills, projects and progress in data analysis. I hope it helps you assess my abilities in programming, data analysis, and working with SQL or simply makes for an interesting view.
+This portfolio showcases my skills, projects and progress in data analysis. I hope it helps you assess my abilities in programming, data analysis and working with SQL or simply makes for an interesting view.
 
 
